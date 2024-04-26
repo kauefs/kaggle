@@ -7,7 +7,7 @@
 [![License](              https://img.shields.io/github/license/kauefs/StreamLit?style=flat&logo=apache&logoColor=CB2138&label=License&labelColor=6D6E71&color=D22128)](https://www.apache.org/licenses/LICENSE-2.0)
 [![Contributions Welcome](https://img.shields.io/badge/Welcome-4CAF50?logo=apple&logoColor=FFFFFF&label=Contributions&labelColor=6D6E71&color=4CAF50)](https://github.com/kauefs/portfolio/issues)
 
-![ƊⱭȾɅViƧi🧿Ƞ](img/DataVision3.png)
+![ƊⱭȾɅViƧi🧿Ƞ](https://raw.githubusercontent.com/kauefs/StreamLit/%40/img/DataVision3.png)
 
 <p align=center>ƊⱭȾɅViƧi🧿Ƞ</p>
 
