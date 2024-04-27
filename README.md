@@ -15,6 +15,6 @@
 
 <p align=center><a href=https://www.python.org/ target=_blank rel=noreferrer><img src=https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg width=35 height=35 alt=Python/></p>
 
-## Works & Projects:
+## Studies & Projects:
 
 * Titanic
